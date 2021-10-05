@@ -4,4 +4,4 @@
 - 🧑‍🤝‍🧑 I’m co-organizer of [@SPbPython](https://github.com/SPbPython) user group
 - 🍻 I'm co-organizer of [SPb Python Drinkups](https://github.com/SPbPython) and SPb IT Drinkups member 
 - 🐍 I’m contributing member of Python Software Foundation (PSF)
-- 📈 My presentations could be found [here](https://www.slideshare.net/delimitry) and [here](https://speakerdeck.com/delimitry)
+- 📈 My presentations can be found [here](https://www.slideshare.net/delimitry) and [here](https://speakerdeck.com/delimitry)
